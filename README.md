@@ -32,8 +32,8 @@ Evaluate the trained model's performance on the test set by plotting training/va
 
 ## PROGRAM
 
-### Name:THENMOZHI P
-### Register Number:212221230116
+### Name:SARVESHKARAN VK
+### Register Number:212221230089
 
 ## Program
 ```
